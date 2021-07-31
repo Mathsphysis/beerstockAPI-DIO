@@ -1,4 +1,4 @@
-package one.digitalinnovation.project.mathsphysis.beerstock;
+package one.digitalinnovation.projects.mathsphysis.beerstock;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

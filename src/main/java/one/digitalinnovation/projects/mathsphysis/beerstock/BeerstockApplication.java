@@ -1,4 +1,4 @@
-package one.digitalinnovation.project.mathsphysis.beerstock;
+package one.digitalinnovation.projects.mathsphysis.beerstock;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
