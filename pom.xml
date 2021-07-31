@@ -8,7 +8,7 @@
 		<version>2.5.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>one.digitalinnovation.project.mathsphysis</groupId>
+	<groupId>one.digitalinnovation.projects.mathsphysis</groupId>
 	<artifactId>beerstock</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>beerstock</name>
@@ -75,8 +75,6 @@
 			<artifactId>spring-data-jpa</artifactId>
 			<version>2.5.3</version>
 		</dependency>
-
-
 	</dependencies>
 
 	<build>
