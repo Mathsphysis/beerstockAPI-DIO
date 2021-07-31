@@ -1,11 +1,11 @@
-package one.digitalinnovation.project.mathsphysis.beerstock.entity;
+package one.digitalinnovation.projects.mathsphysis.beerstock.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import nonapi.io.github.classgraph.json.Id;
-import one.digitalinnovation.project.mathsphysis.beerstock.enums.BeerType;
+import one.digitalinnovation.projects.mathsphysis.beerstock.enums.BeerType;
 
 import javax.persistence.Column;
 import javax.persistence.EnumType;
